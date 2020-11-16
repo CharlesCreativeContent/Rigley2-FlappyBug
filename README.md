@@ -3,7 +3,7 @@
 Javascript & Phaser.js - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.
 
 **Link to site:** https://www.shawncharles.com
-<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif2.gif?raw=true"></img>
+<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif1.gif?raw=true"></img>
 
 ## How It's Made:
 
