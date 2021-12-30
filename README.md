@@ -2,7 +2,7 @@
 
 <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank"><img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" /></a>
 
-Javascript & Phaser.js - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.
+### The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.
 
 ## How It's Made:
 
