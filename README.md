@@ -1,10 +1,10 @@
 <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" />
 
-# Rigley2-FlappyBug
+## Rigley2-FlappyBug
 
 Javascript & Phaser.js - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.
 
-**Link to site:** https://www.shawncharles.com
+**Link to site:** https://codepen.io/ShawnBasquiat/full/bGVWpYw
 <img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif2.gif?raw=true"></img>
 
 ## How It's Made:
