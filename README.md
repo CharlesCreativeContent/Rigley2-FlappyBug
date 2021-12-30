@@ -4,9 +4,6 @@
 
 Javascript & Phaser.js - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.
 
-**Link to site:** https://codepen.io/ShawnBasquiat/full/bGVWpYw
-<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif2.gif?raw=true"></img>
-
 ## How It's Made:
 
 **Tech used:** Javascript & Phaser.js
