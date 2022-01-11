@@ -4,9 +4,7 @@
 
 ### The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.
 
-## How It's Made:
-
-**Tech used:** Javascript & Phaser.js
+## Tech Used: ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![PHASER BADGE](https://img.shields.io/static/v1?label=|&message=PHASER.JS&color=285f65&style=plastic&logo=phaser)
 
 My learning was focused on the changing of the source of an image element, and techniques to make a standard size for non-standard images. Workd very well for desktop, but the mobile version still needs some media qeuries
 
