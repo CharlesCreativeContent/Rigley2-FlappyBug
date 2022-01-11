@@ -10,7 +10,7 @@ My learning was focused on the changing of the source of an image element, and t
 
 ## Optimizations
 
-I would have made a container for the objects that could have resized each image automatically rather than writing a function that updates the size and location after rendering. It got the job done, but was overly cumbersome to update and add more features. Would seriously think about optimizing the code before launching the second version of this game, which will feature a hard-mode that includes all the pokemon types. 
+I would have made a container for the objects that could have resized each image automatically rather than writing a function that updates the size and location after rendering. It got the job done, but was overly cumbersome to update and add more features. Would seriously think about optimizing the code before launching the second version of this game. 
 
 ## Lessons Learned:
 
