@@ -15,3 +15,13 @@ When I improve this project, I would make a loading screen at the beginning of t
 ## Lessons Learned:
 
 I learned that creating a successful project, isn't determined by it's complexity.
+
+
+
+## Other Projects
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+
+<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+
+<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
+
