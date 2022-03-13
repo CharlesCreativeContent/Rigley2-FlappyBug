@@ -25,22 +25,22 @@ I learned that creating a successful project, isn't determined by it's complexit
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33.3%" valign="top">
-<a style="align:center;" target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
         <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
             <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a style="align:center;" target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
       <br />
         <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
           <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a style="align:center;" target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
         <br />
         <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
           <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
