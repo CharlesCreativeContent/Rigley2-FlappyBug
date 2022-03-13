@@ -18,7 +18,7 @@ I learned that creating a successful project, isn't determined by it's complexit
 
 
 
-## Other Projects
+## More Projects
 
 
 
