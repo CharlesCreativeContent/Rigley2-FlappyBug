@@ -26,9 +26,9 @@ I learned that creating a successful project, isn't determined by it's complexit
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/DemoDay">Travelara.org</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">Travelara.org</a>
         <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">
             <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
